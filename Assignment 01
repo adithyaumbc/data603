@@ -1,0 +1,91 @@
+Alla Sai Adithya Reddy
+UX02894
+
+Data 603 Big data Analysis
+Assignment 1
+
+-1) Big Data with examples and types
+   
+A)	Large and complex sets of data that are hard to manage and analyze; i.e. more columns and rows by using regular methods and tools which are mainly used to predict the future by using the past data is known as Big data
+For example, in the healthcare industry, the information of patients and their medical records are stored as big data because of large volumes of data of patients. This data can be used to treat the patients and also detect the disease of the patients by using other patient records with similar symptoms.
+Other example, social media platforms like Instagram and YouTube store all the data the user likes and shares and show related posts based on the user’s previous history.
+
+Types of Big Data
+1.	Structured Data: The data that is stored in the form of tables in a fixed schema i.e., all the data in a column has the same datatype and properties is called Structured Data This can be stored in a relational database and can perform actions using SQL.
+2.	Unstructured Data: The data that has text emails, audio, video, URLs, etc. This data cannot be retrieved by using SQL queries and use machine learning, and NLP to process and analyze the data
+3.	Semi-structured Data: the data that is between structured and unstructured data that does not have fixed tables but is not stored in a relational database. This data can be used by using a NoSQL database and uses keys to add and retrieve the data
+
+
+-2) 6 ‘V’s of Big Data (define each)
+A)	The 6 V’s of Big Data are
+1. Volume
+2. Velocity
+3. Variety
+4. Variability
+5. Veracity
+6. Value
+1.Volume: the large amount of data that is generated and is stored in petabytes (10^15)and zettabytes(10^21) that refers to the size of the data which changes according to time
+2.Velocity: the speed at which the data can be accessed and used is known as Velocity.
+3.Variety: the different types of data from different sources  that are used in the big data is known as variety 
+4. Variability: the data which keeps on changing continuously is known as varibality
+5 Veracity: improving the data quality by increasing the accuracy o the data that helps to analyse the data  is known as Veracity
+6.Value : The output that came after doing all the 5 V’s is known as Value
+
+3)Phases of Big Data analysis (discuss each)
+A) The phases of Big data Analysis are:
+•	DataAcquisition and Recording
+•	Information Extraction and Cleaning
+•	Data Integration ,Aggregation and Represenation
+•	Query Processing ,Data modelling and analysis
+•	Interpretation
+
+Data Acquisition and Recording: The first phase is to gather the information from various sources like IOT devices, databases, and sensors Here the data might be unstructured so it needs to be filtered by removing irrelevant data that does not help to extract the value from the data  and stored
+Information Extraction and Cleaning :
+
+Here the data which is filtered is transformed into a structured format that helps to analyse the data and data cleaning helps to handle the missing values and outliers to standardize the data  
+
+Data Integration ,Aggregation and Represenation :
+The same data is available in multiple datasets so integration helps to join them together and aggregates to avoid redundancies and to reduce the structure. And this data can be represented in many ways like tables,graphs ,histograms, metadata etc
+
+Query Processing ,Data modeling and analysis:
+
+Query Processing: the process that helps in retrieving and analyzing the data using queries.
+Datamodelling: after retrieving the data ,organising the data in the tables or schemas 
+Analysis: here the data is analyzed using visualization by using EDA,prediction, insights, etc.
+
+Interpretation: In this last phase,the analysed data be used to give the conclusions and decision-making ability which helps the organization to get suggestions and recommendations to improve its product.
+ 
+
+
+
+
+
+
+4)Challenges in Big Data analysis (discuss each)
+A)The challenges in big data analysis are:
+1.Heterogeneity and Incompleteness:
+2.Scale
+3.Timeliness
+4.privacy
+5.human collaboration
+
+.Heterogeneity and Incompleteness:
+Face problems while cleaning the data because each type of  data 
+Need to be structured correctly and reducing the errors and incompleteness is not completely accurate.
+Scale:
+The size of data is increasing and the system storage is not enough or the damage in the system hard disk leads to lose of information or data.
+
+Timeliness:
+ data latency and speed of the data processed and real-time data stream all need to be verified and have to be time-sensitive.
+
+4.privacy:  
+ data needs to be stored with high security and needs to use specific tools to work effectively without any breach
+
+5 Human collaboration: 
+effective teamwork is needed to get accurate data and insights from the data and using correct tools with responsibilities helps to maximise the chances of increasing value extraction
+
+Sources:
+1.	Educative. (n.d.). What is Big Data? Characteristics, types, and technologies. https://www.educative.io/blog/what-is-big-data\
+2.	Contributor, S. M.-. G. (2022, October 31). What are the types of big data? Capterra. https://www.capterra.com/resources/types-of-big-data/
+3.	GeeksforGeeks. (2021). Big Data Analytics life cycle. GeeksforGeeks. https://www.geeksforgeeks.org/big-data-analytics-life-cycle/
+
